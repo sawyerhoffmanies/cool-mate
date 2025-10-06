@@ -119,7 +119,7 @@ function insertArticleContent() {
     const content = `
         <h1>Expert Aircon Servicing & Maintenance in Singapore</h1>
         
-        <p>Singapore's tropical climate is known for its high humidity and year-round heat, making air conditioning more than just a convenience—it's a necessity. With temperatures frequently rising above 30°C, both households and businesses rely heavily on their cooling systems to maintain comfort and productivity. Because of this constant use, aircon servicing plays a crucial role in ensuring that systems continue to perform efficiently, safely, and reliably. Without proper care, even the most advanced units can suffer from breakdowns, energy inefficiency, and shortened lifespans.</p>
+        <p>Singapore's tropical climate is known for its high humidity and year-round heat, making air conditioning more than just a convenience—it's a necessity. With temperatures frequently rising above 30°C, both households and businesses rely heavily on their cooling systems to maintain comfort and productivity. Because of this constant use, <a href="https://www.airconservicing.org/" target="_blank" rel="noopener noreferrer">aircon servicing</a> plays a crucial role in ensuring that systems continue to perform efficiently, safely, and reliably. Without proper care, even the most advanced units can suffer from breakdowns, energy inefficiency, and shortened lifespans.</p>
 
         <p>Why Regular Maintenance Matters</p>
 
@@ -195,13 +195,13 @@ function insertArticleContent() {
 
         <p><strong>Service guarantees</strong> – Companies that stand behind their work with warranties or guarantees inspire greater trust.</p>
 
-        <p><strong>Availability</strong> – Emergency breakdowns can happen anytime, so providers offering flexible or 24/7 service are ideal.</p>
+        <p><strong>Availability</strong> – Emergency breakdowns can happen anytime, so providers offering flexible or service are ideal.</p>
 
         <p>By doing due diligence, you can ensure that your air conditioning system is in safe, reliable hands.</p>
 
         <h2>Frequency of Maintenance in Singapore</h2>
 
-        <p>Due to Singapore's hot and humid climate, air conditioners typically run for long hours every day. For most households, <a href="https://www.airconservicing.org/" target="_blank" rel="noopener noreferrer">aircon servicing</a> every three to four months is recommended. Businesses with heavier usage may require monthly maintenance, especially in environments like offices with many employees, or spaces such as cafes and gyms where comfort is essential to customer satisfaction.</p>
+        <p>Due to Singapore's hot and humid climate, air conditioners typically run for long hours every day. For most households, aircon servicing every three to four months is recommended. Businesses with heavier usage may require monthly maintenance, especially in environments like offices with many employees, or spaces such as cafes and gyms where comfort is essential to customer satisfaction.</p>
 
         <p>Following a consistent schedule not only ensures uninterrupted comfort but also reduces the likelihood of sudden breakdowns during the hottest days.</p>
 
